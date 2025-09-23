@@ -45,7 +45,7 @@ exp(-x^2)             // Gaussian function
 
 ### Local Development
 1. Clone the repository
-2. Open `graph.html` in your web browser
+2. Open `index.html` in your web browser
 3. Start plotting functions!
 
 ### Deployment
@@ -54,7 +54,7 @@ This project is automatically deployed to GitHub Pages on every push to the main
 ## File Structure
 
 ```
-├── graph.html          # Main HTML file with UI structure
+├── index.html          # Main HTML file with UI structure
 ├── graph.js            # JavaScript logic for parsing and plotting
 ├── README.md           # Project documentation
 └── .github/
