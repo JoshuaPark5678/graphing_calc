@@ -26,7 +26,7 @@ A powerful, interactive graphing calculator built with HTML, CSS, and JavaScript
 
 -   **Trigonometric**: `sin(x)`, `cos(x)`, `tan(x)`, `csc(x)`, `sec(x)`, `cot(x)`
 -   **Logarithmic**: `log(x)` (base 10), `ln(x)` (natural log)
--   **Other**: `sqrt(x)`, `abs(x)`, `exp(x)`, `floor(x)`, `ceil(x)`, `round(x)`
+-   **Other**: `sqrt(x)`, `abs(x)`, `floor(x)`, `ceil(x)`, `round(x)`
 
 ### Constants
 
@@ -41,7 +41,6 @@ sin(x) + cos(x)       // Trigonometric combination
 2*x + 3               // Linear function
 sqrt(x^2 + 1)         // Square root function
 1/(x^2 + 1)           // Rational function
-exp(-x^2)             // Gaussian function
 ```
 
 ## Development
