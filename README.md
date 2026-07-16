@@ -42,38 +42,6 @@ sin(x) + cos(x)       // Trigonometric combination
 sqrt(x^2 + 1)         // Square root function
 1/(x^2 + 1)           // Rational function
 ```
-
-## Development
-
-### Local Development
-
-1. Clone the repository
-2. Open `index.html` in your web browser
-3. Start plotting functions!
-
-### Deployment
-
-This project is automatically deployed to GitHub Pages on every push to the main branch.
-
-## File Structure
-
-```
-├── index.html          # Main HTML file with UI structure
-├── graph.js            # JavaScript logic for parsing and plotting
-├── README.md           # Project documentation
-└── .github/
-    └── workflows/
-        └── deploy.yml  # GitHub Actions deployment workflow
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
