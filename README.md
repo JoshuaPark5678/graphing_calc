@@ -2,7 +2,7 @@
 
 A powerful, interactive graphing calculator built with HTML, CSS, and JavaScript. Plot mathematical functions and analyze their properties in real-time.
 
-## 🚀 Live Demo
+## Live Demo
 
 **[Try it out here!](https://joshuapark5678.github.io/graphing_calc/)**
 
